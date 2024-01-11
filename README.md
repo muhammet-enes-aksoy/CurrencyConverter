@@ -5,7 +5,7 @@ This project is a simple ASP.NET Core API for converting currencies using the Ex
 curl -X GET "http://localhost:5297/Currency/Convert?From=USD&To=EUR&Amount=100"
 
 - Example Response:
-{ "Amount": 85.23 }
+{"amount":91.25999999999999}
 
 ## Swagger Screenshoots
 
